@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rashid Ali.
 
-## I'm a computer science student and a software engineer.
+## I'm a Computer Science Student and a Software Engineer.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work in a team and build interesting projects collabratively.
