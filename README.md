@@ -1,19 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rashid Ali.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514977/10031/60fps_parrot.gif?1643514977" width="40"/> Hey there!</h1>
+<p>Welcome to my GitHub Profile! </br> My name is Rashid Ali and I am a Fullstack web developer from <img src="	https://cdn-icons-png.flaticon.com/512/323/323352.png" width="13"/> <b>Karachi, Pakistan</b>.</p>
 
-## I'm a Computer Science Student.
+### My Skills:
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to work in a team and build interesting projects collabratively.
-- 🥅 2022 Goals: Contribute more to Open Source projects, land a internship and get a new Laptop, this one sucks!
-- ⚡ Super powers: Quick learning, Curiosity and Techincal thinking.
-- 😀 Fun fact: I love food, landscapes and video games.
+| Languages | Libraries & Frameworks | DevOps & other | Things I use to Code |
+| :-------: | :--------------------: | :------------: | :------------------: |
+| <img alt="Python" height="22" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=facc15" /><br><img alt="JavaScript" height="22" src="https://img.shields.io/badge/-JavaScript-eab308?style=flat-square&logo=javascript&logoColor=white" /><br><img alt="TypeScript" height="22" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /><br><img alt="html" height="22" src="https://img.shields.io/badge/-HTML5-f97316?style=flat-square&logo=html5&logoColor=white" /><br><img alt="css" height="22" src="https://img.shields.io/badge/-CSS3-0ea5e9?style=flat-square&logo=css3&logoColor=white" /> | <img alt="react" height="22" src="https://img.shields.io/badge/-React-0ea5e9?style=flat-square&logo=react&logoColor=white" /><br><img alt="nextjs" height="22" src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white" /><br><img alt="firebase" height="22" src="https://img.shields.io/badge/-Firebase-f59e0b?style=flat-square&logo=firebase&logoColor=white" /><br><img alt="nextjs" height="22" src="https://img.shields.io/badge/-Django-059669?style=flat-square&logo=django&logoColor=white" /><br><img alt="mui" height="22" src="https://img.shields.io/badge/-MUI-0ea5e9?style=flat-square&logo=mui&logoColor=white" /><br><img alt="tailwindcss" height="22" src="https://img.shields.io/badge/-TailwindCSS-22d3ee?style=flat-square&logo=tailwindcss&logoColor=white" /> | <img alt="docker" height="22" src="https://img.shields.io/badge/-Docker-0ea5e9?style=flat-square&logo=docker&logoColor=white" /><br><img alt="git" height="22" src="https://img.shields.io/badge/-Git-f97316?style=flat-square&logo=git&logoColor=white" /><br><img alt="vercel" height="22" src="https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white" /><br><img alt="heroku" height="22" src="https://img.shields.io/badge/-Heroku-5b21b6?style=flat-square&logo=heroku&logoColor=white" /><br><img alt="amazon-aws" height="22" src="https://img.shields.io/badge/-AWS-f59e0b?style=flat-square&logo=amazonaws&logoColor=black" /><br><img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" /> | <img alt="vs-code" height="22" src="https://img.shields.io/badge/-VS_Code-fff?style=flat-square&logo=visualstudio&logoColor=blue" /><br><img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" /><br><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /><br><img alt="linux" src="https://img.shields.io/badge/-Linux-475569?style=flat-square&logo=linux&logoColor=white" /><br><img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" /> |
 
-
----
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/rashid-ali-a29708194" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
+<h3>Find me here</h3>
+<p><a href="https://github.com/rashidkalwar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/RashidAliKalwar" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/-rashidali" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/rashidalikalwar" target="_blank"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+<a href="https://rashidkalwar.github.io" target="_blank"><img alt="dev.to" src="https://img.shields.io/badge/Website-3b82f6?&style=for-the-badge&logo=internetexplorer&logoColor=white" /></a>
 </p>
-
-<br />
