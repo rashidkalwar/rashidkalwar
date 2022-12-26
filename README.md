@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514977/10031/60fps_parrot.gif?1643514977" width="40"/> Hey there!</h1>
-<p>Welcome to my GitHub Profile! </br> My name is Rashid Ali and I am a Fullstack Software Developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323352.png" width="13"/> <b>Karachi, Pakistan</b>.</p>
+<p>Welcome to my GitHub Profile! </br> My name is <b>Rashid Ali</b> and I am a <b>Fullstack Software Developer</b> from <img src="https://cdn-icons-png.flaticon.com/512/323/323352.png" width="13"/> <b>Karachi, Pakistan</b>.</p>
 
 ### My Skills:
 
