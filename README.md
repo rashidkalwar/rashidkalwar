@@ -11,3 +11,7 @@
 <p><a href="https://github.com/rashidkalwar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/RashidAliKalwar" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/-rashidali" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/rashidalikalwar" target="_blank"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 <a href="https://rashidkalwar.github.io" target="_blank"><img alt="dev.to" src="https://img.shields.io/badge/Website-3b82f6?&style=for-the-badge&logo=internetexplorer&logoColor=white" /></a>
 </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashidkalwar&theme=github_dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rashidkalwar&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rashidkalwar&theme=github_dark)
