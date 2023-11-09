@@ -12,6 +12,7 @@
 <a href="https://rashidkalwar.github.io" target="_blank"><img alt="dev.to" src="https://img.shields.io/badge/Website-3b82f6?&style=for-the-badge&logo=internetexplorer&logoColor=white" /></a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rashidkalwar)](https://github.com/ryo-ma/github-profile-trophy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashidkalwar&theme=react)
 [![GitHub Streak](https://streak-stats.demolab.com?user=rashidkalwar&theme=react&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rashidkalwar&theme=react)
