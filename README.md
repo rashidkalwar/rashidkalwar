@@ -23,8 +23,8 @@
     <img alt="TailwindCSS" height="25" src="https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss&logoColor=06b6d4" />
     <img alt="NodeJs" height="25" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=65a30d" />
     <img alt="NestJs" height="25" src="https://img.shields.io/badge/-NestJs-black?style=flat-square&logo=nestjs&logoColor=ea2845" />
-    <img alt="ExpressJs" height="25" src="https://img.shields.io/badge/-Express-18181b?style=flat-square&logo=express&logoColor=white" /> 
-    <img alt="NextJs" height="25" src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=balck" />
+    <img alt="ExpressJs" height="25" src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white" /> 
+    <img alt="NextJs" height="25" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=balck" />
 </p>
 
 #### 3. Databases:
@@ -73,13 +73,13 @@
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=blue" />
     </a>
     <a href="https://dev.to/rashidalikalwar" target="_blank">
-        <img alt="dev.to" src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
+        <img alt="dev.to" src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" />
     </a>
     <a href="https://medium.com/@rashid14713524" target="_blank">
-        <img alt="dev.to" src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium" />
+        <img alt="medium" src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium" />
     </a>
     <a href="https://rashidkalwar.github.io" target="_blank">
-        <img alt="dev.to" src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
+        <img alt="website" src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
     </a>
 </p>
 
