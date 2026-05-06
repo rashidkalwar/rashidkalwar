@@ -1,7 +1,7 @@
 <h1>
     <img src="https://emojis.slackmojis.com/emojis/images/1643514057/143/waving.gif?1643514057" width="40"/> Hey there!
 </h1>
-<p>Welcome to my GitHub Profile! </br> My name is <b>Rashid Ali</b> and I am a <b>Software Engineer</b> from 
+<p>Welcome to my GitHub Profile! </br> My name is <b>Rashid Ali</b> and I am a <b>Programmer/Developer</b> from 
     <img src="https://cdn-icons-png.flaticon.com/512/323/323352.png" width="13"/> <b>Karachi, Pakistan</b>.
 </p>
 
